@@ -1714,7 +1714,7 @@ body {
 .cid-qun14GuAcW {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #0f7699;
+  background-image: url("../../../assets/images/blue-abstract-background.jpg");
 }
 .cid-qumZuAR2OR {
   padding-top: 0px;
@@ -1762,7 +1762,7 @@ body {
 .cid-qun8SVqm30 {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #0f7699;
+  background-image: url("../../../assets/images/blue-abstract-background.jpg");
 }
 .cid-qun8SVqm30 H2 {
   text-align: center;
@@ -1773,7 +1773,7 @@ body {
 .cid-qunaoYtOSD {
   padding-top: 45px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/background2.jpg");
 }
 .cid-qunaoYtOSD .title {
   margin-bottom: 2rem;
@@ -1799,6 +1799,7 @@ body {
 }
 .cid-qunaoYtOSD .mbr-section-subtitle DIV {
   text-align: center;
+  color: #232323;
 }
 .cid-qunaoYtOSD DIV {
   text-align: center;
@@ -1809,12 +1810,12 @@ body {
 .cid-qun0Fw2Azx {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #f19121;
+  background-image: url("../../../assets/images/orange-abstract-wallpaper.jpg");
 }
 .cid-qumRa6UcMf {
   padding-top: 90px;
   padding-bottom: 0px;
-  background-color: #f9f9f9;
+  background-image: url("../../../assets/images/bigstock-abstract-d-white-geometric-ba-62092823-converted.png");
 }
 .cid-qumRa6UcMf .mbr-text {
   color: #767676;
@@ -1832,7 +1833,7 @@ body {
 .cid-qumS3Y7XtB {
   padding-top: 0px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-image: url("../../../assets/images/bigstock-abstract-d-white-geometric-ba-62092823-converted.png");
 }
 .cid-qumS3Y7XtB .mbr-text {
   color: #767676;
@@ -1897,12 +1898,12 @@ body {
 .cid-qun6i9M39M {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #0f7699;
+  background-image: url("../../../assets/images/blue-abstract-background.jpg");
 }
 .cid-qun3IAOJVp {
   padding-top: 45px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
+  background-image: url("../../../assets/images/mbr.jpg");
 }
 .cid-qun3IAOJVp .mbr-iconfont {
   font-size: 48px;
@@ -2002,7 +2003,7 @@ body {
 .cid-qunfmXcLaz {
   padding-top: 45px;
   padding-bottom: 45px;
-  background: linear-gradient(0deg, #f19121, #f19121);
+  background-image: url("../../../assets/images/orange-abstract-wallpaper.jpg");
 }
 .cid-qunfmXcLaz .mbr-iconfont-social {
   font-size: 32px;
@@ -2012,7 +2013,7 @@ body {
   text-decoration: none;
 }
 .cid-qunfmXcLaz B {
-  color: #ffffff;
+  color: #073b4c;
 }
 .cid-qunyIHOs8N {
   padding-top: 15px;
